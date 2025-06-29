@@ -80,7 +80,8 @@ Make sure you have these installed:
 
 | Mobile Phone View |
 | :---------------: |
-| ![Mobile Screenshot](Images/mobile-view-screenshot.png) |
+| ![Mobile Screenshot](outer-images/mobile-dashboard.jpg) |
+| ![Mobile Screenshot](outer-images/phone-res-create-light.jpg) |
 ---
 
 ## 🛠 What It's Built With
